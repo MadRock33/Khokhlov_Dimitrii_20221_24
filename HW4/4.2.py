@@ -10,10 +10,10 @@ def generate_all_permutations(input_list:list) -> list[list[int,...],...]:
 
     return result[::-1]
 
-
-input_list = [1, 2, 3, 4]
-result = generate_all_permutations(input_list)
-for i in range(len(result)):
-    print(f"{i+1}. {result[i]}")
+if __name__ == '__main__':
+    input_list = [1, 2, 3, 4]
+    result = generate_all_permutations(input_list)
+    for i in range(len(result)):
+        print(f"{i+1}. {result[i]}")
 
 #print(result)
