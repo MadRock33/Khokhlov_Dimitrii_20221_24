@@ -1,4 +1,4 @@
-def get_possible_pins(observed_pin:str) -> list(str,...):
+def get_possible_pins(observed_pin:str) -> list[str,...]:
     adjacent_digits = {
         '0': ['0', '8'],
         '1': ['1', '2', '4'],
