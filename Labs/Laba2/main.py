@@ -7,7 +7,7 @@ def display_board(board: list, N: int) -> None:
     for row in board:
 
         for i in row:
-            print(i, end="  ")
+            print(i, end=" ")
         print()
     print()
     return
