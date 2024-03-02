@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="45396f0f-3896-4730-80d3-7eb496ae4300" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Laba2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Laba2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Laba2/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Laba2/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Laba2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Laba2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Laba2/Отчёт/Лабораторная работа №2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Laba2/Отчёт/Лабораторная работа №2.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -31,43 +38,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Roman.executor&quot;: &quot;Run&quot;,
-    &quot;Python.all permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.i_am_robbery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.laba1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.laba1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.laba2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.laba2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matrix_spiral.executor&quot;: &quot;Run&quot;,
-    &quot;Python.santa's list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.subsets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.transponed_matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.words_group.executor&quot;: &quot;Run&quot;,
-    &quot;Python.work_with_func.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2.1.executor": "Run",
+    "Python.2.3.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.4.1.executor": "Run",
+    "Python.4.2.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.7.3.executor": "Run",
+    "Python.Roman.executor": "Run",
+    "Python.all permutations.executor": "Run",
+    "Python.i_am_robbery.executor": "Run",
+    "Python.laba1 (1).executor": "Run",
+    "Python.laba1.executor": "Run",
+    "Python.laba2 (1).executor": "Run",
+    "Python.laba2.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_new.executor": "Run",
+    "Python.matrix_spiral.executor": "Run",
+    "Python.santa's list.executor": "Run",
+    "Python.subsets.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.transponed_matrix.executor": "Run",
+    "Python.words_group.executor": "Run",
+    "Python.work_with_func.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main (1)">
     <configuration name="laba2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Khokhlov_Dimitrii_20121_23" />
@@ -84,29 +92,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Laba2/laba2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="laba2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Khokhlov_Dimitrii_20121_23" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/laba2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,6 +146,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Khokhlov_Dimitrii_20121_23" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs/Laba2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Laba2/main_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Khokhlov_Dimitrii_20121_23" />
       <option name="ENV_FILES" value="" />
@@ -187,17 +195,17 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main_new" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.laba2 (1)" />
-        <item itemvalue="Python.laba2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -213,7 +221,11 @@
       <workItem from="1705755448212" duration="22014000" />
       <workItem from="1705838737111" duration="3817000" />
       <workItem from="1705842826689" duration="18680000" />
-      <workItem from="1706530437045" duration="15178000" />
+      <workItem from="1706530437045" duration="15931000" />
+      <workItem from="1709310220558" duration="46000" />
+      <workItem from="1709310282540" duration="429000" />
+      <workItem from="1709310720506" duration="37000" />
+      <workItem from="1709310815549" duration="13390000" />
     </task>
     <servers />
   </component>
@@ -246,14 +258,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$i_am_robbery.coverage" NAME="i_am_robbery Coverage Results" MODIFIED="1705847445712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW5" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$main.coverage" NAME="main Coverage Results" MODIFIED="1705867022988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Laba1" />
-    <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$laba2.coverage" NAME="laba2 Coverage Results" MODIFIED="1706007869548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$2_3.coverage" NAME="2.3 Coverage Results" MODIFIED="1705844391752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW2" />
+    <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$laba2.coverage" NAME="laba2 Coverage Results" MODIFIED="1706007869548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$test.coverage" NAME="test Coverage Results" MODIFIED="1705844055309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW2" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$all_permutations.coverage" NAME="all permutations Coverage Results" MODIFIED="1705756554669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW4" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$words_group.coverage" NAME="words_group Coverage Results" MODIFIED="1705757230099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW4" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1706009663575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homeworks/HW8" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1705845783661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW4" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$Roman.coverage" NAME="Roman Coverage Results" MODIFIED="1705778752661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW7" />
+    <SUITE FILE_PATH="coverage/main_py$main_new.coverage" NAME="main_new Coverage Results" MODIFIED="1709340917140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Laba2" />
     <SUITE FILE_PATH="coverage/1_3_py$2_3.coverage" NAME="2.3 Coverage Results" MODIFIED="1705842378635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW2" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$matrix_spiral.coverage" NAME="matrix_spiral Coverage Results" MODIFIED="1705755916909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW3" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1705781545036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW7" />
@@ -269,7 +282,7 @@
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$laba1__1_.coverage" NAME="laba1 (1) Coverage Results" MODIFIED="1705789221160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1705765551285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW6" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1705775027146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW4" />
-    <SUITE FILE_PATH="coverage/main_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1706543424991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Laba2" />
+    <SUITE FILE_PATH="coverage/main_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1709341701851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Laba2" />
     <SUITE FILE_PATH="coverage/1_3_py$laba2__1_.coverage" NAME="laba2 (1) Coverage Results" MODIFIED="1705839919550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$work_with_func.coverage" NAME="work_with_func Coverage Results" MODIFIED="1705760155569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW6" />
     <SUITE FILE_PATH="coverage/Khokhlov_Dimitrii_20121_23$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1706007168613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Laba2" />

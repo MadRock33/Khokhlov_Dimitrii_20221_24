@@ -1,3 +1,8 @@
+#---Настраиваемые параметры---#
+NAME_FIGURE = "Визирь"
+VERSION = "0.0.2"
+INPUT_FILE_NAME = "input.txt"
+OUTPUT_FILE_NAME = "output.txt"
 
 def get_moves(row: int, col: int) -> list[tuple[int, int]]:
     return [
@@ -7,13 +12,3 @@ def get_moves(row: int, col: int) -> list[tuple[int, int]]:
         (row + 1, col), (row + 2, col)  # Вниз
     ]
 
-def get_data(solutions:list, make_move):
-    with open("input.txt", "r") as input_file:
-        N, L, K = map(int, input_file.readline().split())
-
-        board = ["0" * N for _ in range(N)]
-
-        for _ in range(K):
-            row, col = map(int, input_file.readline().split())
-            make_move(board, N, row, col, solutions)
-    return N,L,K,board
