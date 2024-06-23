@@ -12,7 +12,7 @@ def display_board(board: list, N: int) -> None:
     print()
     return
 
-def display_info(steps_list: list, start_time: float, board: list, N: int) -> None:
+def display_info(steps_list: list, start_time: float) -> None:
 
     print("#------Результат------#")
     print(f"Всего решений: {len(steps_list)}")
@@ -95,7 +95,7 @@ def main():
             print(i_row)
     find_steps(L, N, board, 0, -1, steps_list, all_steps)
 
-    display_info(all_steps, start_time, board, N)
+    display_info(all_steps, start_time)
 
 
 if __name__ == "__main__":
