@@ -1,5 +1,5 @@
 import sys
-from PySide6.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QGraphicsView, QGraphicsScene, QGraphicsRectItem, QMessageBox
+from PySide6.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QGraphicsView, QGraphicsScene, QGraphicsRectItem, QMessageBox, QSpinBox
 from PySide6.QtCore import Qt
 from chess import *
 class ParameterWindow(QMainWindow):
@@ -15,11 +15,14 @@ class ParameterWindow(QMainWindow):
         self.central_widget.setLayout(self.layout)
 
         self.label_n = QLabel("Размер доски N:")
-        self.edit_n = QLineEdit()
+        self.edit_n = QSpinBox()
+        self.edit_n.setRange(2,20)
         self.label_l = QLabel("Количество фигур L:")
-        self.edit_l = QLineEdit()
+        self.edit_l = QSpinBox()
+        self.edit_l.setRange(2, 20)
         self.label_k = QLabel("Фигур требуется поставить K:")
-        self.edit_k = QLineEdit()
+        self.edit_k = QSpinBox()
+        self.edit_k.setRange(2, 20)
 
         self.button_next = QPushButton("Дальше")
         self.button_next.clicked.connect(self.open_coordinate_window)
