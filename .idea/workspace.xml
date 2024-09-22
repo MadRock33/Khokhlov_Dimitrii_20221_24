@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45396f0f-3896-4730-80d3-7eb496ae4300" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/P.2/NetPerceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI/P.2/NetPerceptron.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="45396f0f-3896-4730-80d3-7eb496ae4300" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +234,7 @@
       <workItem from="1709310282540" duration="429000" />
       <workItem from="1709310720506" duration="37000" />
       <workItem from="1709310815549" duration="23889000" />
-      <workItem from="1727030124943" duration="8500000" />
+      <workItem from="1727030124943" duration="8607000" />
     </task>
     <servers />
   </component>
