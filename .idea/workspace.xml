@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45396f0f-3896-4730-80d3-7eb496ae4300" name="Changes" comment="Added graph output after training">
-      <change afterPath="$PROJECT_DIR$/AI/P.1/Perceptron.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/P.1/Perceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI/P.1/Perceptron.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AI/P.2/NetPerceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI/P.2/NetPerceptron.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +30,12 @@
     &quot;assignee&quot;: &quot;MadRock33&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MadRock33/Khokhlov_Dimitrii_20121_23.git&quot;,
-    &quot;accountId&quot;: &quot;33fa2e93-e814-4200-a524-ea7ce9c20326&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MadRock33/Khokhlov_Dimitrii_20221_24.git",
+    "accountId": "33fa2e93-e814-4200-a524-ea7ce9c20326"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
@@ -84,6 +83,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/madro/Documents/GitHub/Khokhlov_Dimitrii_20121_23",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,6 +92,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\madro\Documents\GitHub\Khokhlov_Dimitrii_20121_23\AI\P.1\images" />
+      <recent name="C:\Users\madro\Documents\GitHub\Khokhlov_Dimitrii_20121_23\AI\P.1" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.perceptron 2">
     <configuration name="8.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Khokhlov_Dimitrii_20121_23" />
@@ -246,7 +252,7 @@
       <workItem from="1727030124943" duration="8607000" />
       <workItem from="1727074970888" duration="29321000" />
       <workItem from="1727386477208" duration="1710000" />
-      <workItem from="1727680461465" duration="51082000" />
+      <workItem from="1727680461465" duration="59192000" />
     </task>
     <task id="LOCAL-00001" summary="Added graph output after training">
       <option name="closed" value="true" />
