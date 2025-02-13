@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45396f0f-3896-4730-80d3-7eb496ae4300" name="Changes" comment="Added graph output after training">
+      <change afterPath="$PROJECT_DIR$/AI/P.8/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Khokhlov_Dimitrii_20121_23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Khokhlov_Dimitrii_20121_23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/P.1/Perceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI/P.1/Perceptron.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/P.2/NetPerceptron.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AI/P.2/NetPerceptron.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -30,12 +33,12 @@
     &quot;assignee&quot;: &quot;MadRock33&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MadRock33/Khokhlov_Dimitrii_20221_24.git",
-    "accountId": "33fa2e93-e814-4200-a524-ea7ce9c20326"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MadRock33/Khokhlov_Dimitrii_20221_24.git&quot;,
+    &quot;accountId&quot;: &quot;33fa2e93-e814-4200-a524-ea7ce9c20326&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
@@ -48,50 +51,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2.1.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.4.1.executor": "Run",
-    "Python.4.2.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.7.3.executor": "Run",
-    "Python.8.1.executor": "Run",
-    "Python.PRACTIKA_1.executor": "Run",
-    "Python.Roman.executor": "Run",
-    "Python.all permutations.executor": "Run",
-    "Python.i_am_robbery.executor": "Run",
-    "Python.laba1 (1).executor": "Run",
-    "Python.laba1.executor": "Run",
-    "Python.laba2 (1).executor": "Run",
-    "Python.laba2.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main (2).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main_new.executor": "Run",
-    "Python.matrix_spiral.executor": "Run",
-    "Python.perceptron 2.executor": "Run",
-    "Python.santa's list.executor": "Run",
-    "Python.subsets.executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.transponed_matrix.executor": "Run",
-    "Python.words_group.executor": "Run",
-    "Python.work_with_func.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/madro/Documents/GitHub/Khokhlov_Dimitrii_20121_23",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRACTIKA_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Roman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.all permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.i_am_robbery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.laba2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_spiral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perceptron 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.santa's list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transponed_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.words_group.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_with_func.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/madro/Downloads&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\madro\Documents\GitHub\Khokhlov_Dimitrii_20121_23\AI\P.1\images" />
@@ -227,8 +232,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
-        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -253,6 +258,14 @@
       <workItem from="1727074970888" duration="29321000" />
       <workItem from="1727386477208" duration="1710000" />
       <workItem from="1727680461465" duration="59192000" />
+      <workItem from="1738570314421" duration="1253000" />
+      <workItem from="1738571596476" duration="2242000" />
+      <workItem from="1738903960247" duration="1032000" />
+      <workItem from="1738913187516" duration="88000" />
+      <workItem from="1738918720070" duration="5202000" />
+      <workItem from="1739171714392" duration="1718000" />
+      <workItem from="1739173458512" duration="7221000" />
+      <workItem from="1739451234638" duration="1195000" />
     </task>
     <task id="LOCAL-00001" summary="Added graph output after training">
       <option name="closed" value="true" />
